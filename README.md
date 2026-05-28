@@ -2,130 +2,134 @@
 
 A Python-based CLI application for tracking, analyzing, and visualizing personal expenses.
 
+This project allows users to:
+
+* Add, update, and delete expenses
+* Analyze expense data
+* View monthly expense trends
+* Generate category-wise analysis
+* Export charts and CSV reports
+
 ---
 
 ## Features
 
-- Add, update, and delete expenses
-- JSON-based persistent storage
-- Monthly expense trend analysis
-- Category-wise expense analysis
-- CSV export support
-- PNG chart export
-- Data visualization using Matplotlib
-- Date validation and timestamp tracking
+* CRUD operations
+* Expense analysis using Pandas
+* Monthly trend analysis
+* Category-wise analysis
+* Data visualization using Matplotlib
+* CSV export support
+* PNG chart export
+* JSON-based data storage
+* Timestamp tracking
 
 ---
 
 ## Technologies Used
 
-- Python
-- Pandas
-- Matplotlib
-- JSON
+* Python
+* Pandas
+* Matplotlib
+* JSON
 
 ---
 
 ## Project Structure
 
-expense_analytics_system/
-│
-├── main.py
-├── expenses.json
-├── requirements.txt
-├── README.md
+        expense_analytics_system/
+        │       
+        ├── main.py
+        ├── data/
+        │   └── expenses.json
+        │
+        ├── exports/
+        │   ├── charts/
+        │   └── csv/
+        │
+        ├── modules/
+        │   ├── analytics.py
+        │   ├── expense_manager.py
+        │   ├── file_handler.py
+        │   └── utils.py
+        │       
+        ├── screenshots/
+        ├── requirements.txt
+        └── README.md
 
 ---
 
 ## How to Run
 
-1. Install dependencies
+### 1. Install Dependencies
 
-pip install -r requirements.txt
+        pip install -r requirements.txt
 
-2. Run the project
+### 2. Run the Project
 
-python main.py (or) python3 main.py
+        python main.py
 
----
+or
 
-## Screenshots
-
-(Add screenshots here)
-
----
-
-## Future Improvements
-
-- Streamlit dashboard
-- SQL database integration
-- Advanced filtering
-- User authentication
-
-
-
-# Expense Analytics System
-
-A Python-based CLI application for tracking and analyzing personal expenses.
-
-This project allows users to:
-- Add, update, and delete expenses
-- Analyze expense data
-- View monthly expense trends
-- Generate category-wise analysis
-- Export charts and CSV reports
-
----
-
-## Features
-
-- CRUD operations
-- Expense analysis using Pandas
-- Monthly trend analysis
-- Bar graph visualizations using Matplotlib
-- CSV export support
-- PNG chart export
-- JSON-based data storage
-
----
-
-## Technologies Used
-
-- Python
-- Pandas
-- Matplotlib
-- JSON
-
----
-
-## How to Run
-
-1. Open terminal inside project folder
-
-2. Install dependencies
-
-pip install -r requirements.txt
-
-3. Run the project
-
-python main.py
+        python3 main.py
 
 ---
 
 ## Screenshots
 
-(Add screenshots here)
+### Main Menu
+
+![Main Menu](screenshots/Run_program.png)
+
+### Adding an Expense
+
+![Add Expense](screenshots/Adding_expense.png)
+
+### Expense List
+
+![Expense List](screenshots/list_of_expenses.png)
+
+### Expense Summary
+
+![Expense Summary](screenshots/Simple_summary.png)
+
+### Updating an Expense
+
+![Update Expense](screenshots/Edit_update.png)
+
+### Deleting an Expense
+
+![Delete Expense](screenshots/Deleting.png)
+
+### Complete Analysis
+
+![Complete Analysis](screenshots/C_Analysis.png)
+
+### Category Analysis Visualization
+
+![Category Analysis](screenshots/VC_Analysis.png)
+
+### Monthly Analysis
+
+![Monthly Analysis](screenshots/M_Analysis.png)
+
+### Monthly Trend Visualization
+
+![Monthly Trend](screenshots/VM_Analysis.png)
 
 ---
 
 ## Future Improvements
 
-- More advanced analysis methods
-- Decision making with analysis
-- Better filtering options
-- Streamlit web dashboard
-- SQL database integration
-# expense-analytics-system
-# expense-analytics-system
-# expense-analytics-system
-# expense-analytics-system
+* Streamlit dashboard
+* SQL database integration
+* Advanced filtering
+* Decision-making insights
+* User authentication
+
+---
+
+## Author
+
+
+Developed by Kullayiswamy, a BSc AI student, as a portfolio and learning project using Python, Pandas, and Matplotlib.

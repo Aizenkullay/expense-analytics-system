@@ -1,0 +1,602 @@
+[
+    {
+        "user_date": "01-01-2026",
+        "category": "Rent",
+        "amount": 15000.0,
+        "timestamp": "01-01-2026_10-30-15"
+    },
+    {
+        "user_date": "01-01-2026",
+        "category": "Food",
+        "amount": 450.0,
+        "timestamp": "01-01-2026_13-45-22"
+    },
+    {
+        "user_date": "02-01-2026",
+        "category": "Travel",
+        "amount": 1200.0,
+        "timestamp": "02-01-2026_09-15-00"
+    },
+    {
+        "user_date": "03-01-2026",
+        "category": "Daily Expenses",
+        "amount": 350.0,
+        "timestamp": "03-01-2026_18-20-45"
+    },
+    {
+        "user_date": "04-01-2026",
+        "category": "Recharges",
+        "amount": 599.0,
+        "timestamp": "04-01-2026_11-10-30"
+    },
+    {
+        "user_date": "05-01-2026",
+        "category": "Shopping",
+        "amount": 2500.0,
+        "timestamp": "05-01-2026_16-40-12"
+    },
+    {
+        "user_date": "06-01-2026",
+        "category": "Movies",
+        "amount": 450.0,
+        "timestamp": "06-01-2026_21-05-55"
+    },
+    {
+        "user_date": "07-01-2026",
+        "category": "Subscriptions",
+        "amount": 299.0,
+        "timestamp": "07-01-2026_08-00-01"
+    },
+    {
+        "user_date": "08-01-2026",
+        "category": "Food",
+        "amount": 320.0,
+        "timestamp": "08-01-2026_14-22-33"
+    },
+    {
+        "user_date": "09-01-2026",
+        "category": "Trips",
+        "amount": 8500.0,
+        "timestamp": "09-01-2026_10-00-00"
+    },
+    {
+        "user_date": "10-01-2026",
+        "category": "Daily Expenses",
+        "amount": 150.0,
+        "timestamp": "10-01-2026_19-30-40"
+    },
+    {
+        "user_date": "11-01-2026",
+        "category": "Recharges",
+        "amount": 249.0,
+        "timestamp": "11-01-2026_09-12-18"
+    },
+    {
+        "user_date": "12-01-2026",
+        "category": "Food",
+        "amount": 580.0,
+        "timestamp": "12-01-2026_20-15-57"
+    },
+    {
+        "user_date": "13-01-2026",
+        "category": "Travel",
+        "amount": 850.0,
+        "timestamp": "13-01-2026_08-45-10"
+    },
+    {
+        "user_date": "14-01-2026",
+        "category": "Shopping",
+        "amount": 1200.0,
+        "timestamp": "14-01-2026_17-50-22"
+    },
+    {
+        "user_date": "15-01-2026",
+        "category": "Movies",
+        "amount": 600.0,
+        "timestamp": "15-01-2026_22-30-00"
+    },
+    {
+        "user_date": "16-01-2026",
+        "category": "Subscriptions",
+        "amount": 199.0,
+        "timestamp": "16-01-2026_07-15-45"
+    },
+    {
+        "user_date": "17-01-2026",
+        "category": "Food",
+        "amount": 620.0,
+        "timestamp": "17-01-2026_13-10-12"
+    },
+    {
+        "user_date": "18-01-2026",
+        "category": "Daily Expenses",
+        "amount": 200.0,
+        "timestamp": "18-01-2026_18-40-55"
+    },
+    {
+        "user_date": "19-01-2026",
+        "category": "Trips",
+        "amount": 12000.0,
+        "timestamp": "19-01-2026_11-20-30"
+    },
+    {
+        "user_date": "20-01-2026",
+        "category": "Travel",
+        "amount": 2100.0,
+        "timestamp": "20-01-2026_09-00-00"
+    },
+    {
+        "user_date": "21-01-2026",
+        "category": "Food",
+        "amount": 310.0,
+        "timestamp": "21-01-2026_12-55-14"
+    },
+    {
+        "user_date": "22-01-2026",
+        "category": "Shopping",
+        "amount": 4500.0,
+        "timestamp": "22-01-2026_15-20-40"
+    },
+    {
+        "user_date": "23-01-2026",
+        "category": "Recharges",
+        "amount": 199.0,
+        "timestamp": "23-01-2026_10-10-10"
+    },
+    {
+        "user_date": "24-01-2026",
+        "category": "Movies",
+        "amount": 350.0,
+        "timestamp": "24-01-2026_20-45-12"
+    },
+    {
+        "user_date": "25-01-2026",
+        "category": "Subscriptions",
+        "amount": 499.0,
+        "timestamp": "25-01-2026_08-30-55"
+    },
+    {
+        "user_date": "26-01-2026",
+        "category": "Food",
+        "amount": 540.0,
+        "timestamp": "26-01-2026_14-10-22"
+    },
+    {
+        "user_date": "27-01-2026",
+        "category": "Daily Expenses",
+        "amount": 120.0,
+        "timestamp": "27-01-2026_19-05-33"
+    },
+    {
+        "user_date": "28-01-2026",
+        "category": "Travel",
+        "amount": 1300.0,
+        "timestamp": "28-01-2026_07-45-00"
+    },
+    {
+        "user_date": "29-01-2026",
+        "category": "Shopping",
+        "amount": 800.0,
+        "timestamp": "29-01-2026_16-15-40"
+    },
+    {
+        "user_date": "30-01-2026",
+        "category": "Trips",
+        "amount": 5500.0,
+        "timestamp": "30-01-2026_10-30-15"
+    },
+    {
+        "user_date": "01-02-2026",
+        "category": "Rent",
+        "amount": 15000.0,
+        "timestamp": "01-02-2026_09-00-00"
+    },
+    {
+        "user_date": "02-02-2026",
+        "category": "Food",
+        "amount": 420.0,
+        "timestamp": "02-02-2026_13-20-45"
+    },
+    {
+        "user_date": "03-02-2026",
+        "category": "Travel",
+        "amount": 950.0,
+        "timestamp": "03-02-2026_08-10-12"
+    },
+    {
+        "user_date": "04-02-2026",
+        "category": "Daily Expenses",
+        "amount": 600.0,
+        "timestamp": "04-02-2026_18-55-10"
+    },
+    {
+        "user_date": "05-02-2026",
+        "category": "Recharges",
+        "amount": 479.0,
+        "timestamp": "05-02-2026_11-40-22"
+    },
+    {
+        "user_date": "06-02-2026",
+        "category": "Shopping",
+        "amount": 3200.0,
+        "timestamp": "06-02-2026_15-30-45"
+    },
+    {
+        "user_date": "07-02-2026",
+        "category": "Movies",
+        "amount": 500.0,
+        "timestamp": "07-02-2026_21-15-00"
+    },
+    {
+        "user_date": "08-02-2026",
+        "category": "Subscriptions",
+        "amount": 149.0,
+        "timestamp": "08-02-2026_07-50-33"
+    },
+    {
+        "user_date": "09-02-2026",
+        "category": "Food",
+        "amount": 700.0,
+        "timestamp": "09-02-2026_14-05-12"
+    },
+    {
+        "user_date": "10-02-2026",
+        "category": "Trips",
+        "amount": 9000.0,
+        "timestamp": "10-02-2026_10-15-40"
+    },
+    {
+        "user_date": "11-02-2026",
+        "category": "Travel",
+        "amount": 1600.0,
+        "timestamp": "11-02-2026_08-22-18"
+    },
+    {
+        "user_date": "12-02-2026",
+        "category": "Daily Expenses",
+        "amount": 450.0,
+        "timestamp": "12-02-2026_19-45-57"
+    },
+    {
+        "user_date": "13-02-2026",
+        "category": "Recharges",
+        "amount": 666.0,
+        "timestamp": "13-02-2026_12-10-10"
+    },
+    {
+        "user_date": "14-02-2026",
+        "category": "Food",
+        "amount": 250.0,
+        "timestamp": "14-02-2026_13-05-22"
+    },
+    {
+        "user_date": "15-02-2026",
+        "category": "Shopping",
+        "amount": 1500.0,
+        "timestamp": "15-02-2026_16-40-55"
+    },
+    {
+        "user_date": "16-02-2026",
+        "category": "Movies",
+        "amount": 300.0,
+        "timestamp": "16-02-2026_20-15-30"
+    },
+    {
+        "user_date": "17-02-2026",
+        "category": "Subscriptions",
+        "amount": 149.0,
+        "timestamp": "17-02-2026_07-30-12"
+    },
+    {
+        "user_date": "18-02-2026",
+        "category": "Food",
+        "amount": 580.0,
+        "timestamp": "18-02-2026_13-55-14"
+    },
+    {
+        "user_date": "19-02-2026",
+        "category": "Daily Expenses",
+        "amount": 320.0,
+        "timestamp": "19-02-2026_18-20-40"
+    },
+    {
+        "user_date": "20-02-2026",
+        "category": "Travel",
+        "amount": 1100.0,
+        "timestamp": "20-02-2026_08-05-10"
+    },
+    {
+        "user_date": "21-02-2026",
+        "category": "Shopping",
+        "amount": 299.0,
+        "timestamp": "21-02-2026_15-45-12"
+    },
+    {
+        "user_date": "22-02-2026",
+        "category": "Movies",
+        "amount": 800.0,
+        "timestamp": "22-02-2026_22-10-30"
+    },
+    {
+        "user_date": "23-02-2026",
+        "category": "Subscriptions",
+        "amount": 699.0,
+        "timestamp": "23-02-2026_08-40-55"
+    },
+    {
+        "user_date": "24-02-2026",
+        "category": "Food",
+        "amount": 490.0,
+        "timestamp": "24-02-2026_14-30-22"
+    },
+    {
+        "user_date": "25-02-2026",
+        "category": "Daily Expenses",
+        "amount": 550.0,
+        "timestamp": "25-02-2026_19-15-33"
+    },
+    {
+        "user_date": "26-02-2026",
+        "category": "Recharges",
+        "amount": 839.0,
+        "timestamp": "26-02-2026_10-50-00"
+    },
+    {
+        "user_date": "27-02-2026",
+        "category": "Shopping",
+        "amount": 550.0,
+        "timestamp": "27-02-2026_17-22-40"
+    },
+    {
+        "user_date": "28-02-2026",
+        "category": "Trips",
+        "amount": 15000.0,
+        "timestamp": "28-02-2026_11-30-15"
+    },
+    {
+        "user_date": "01-03-2026",
+        "category": "Rent",
+        "amount": 18000.0,
+        "timestamp": "01-03-2026_09-15-00"
+    },
+    {
+        "user_date": "02-03-2026",
+        "category": "Food",
+        "amount": 360.0,
+        "timestamp": "02-03-2026_13-40-45"
+    },
+    {
+        "user_date": "03-03-2026",
+        "category": "Travel",
+        "amount": 2500.0,
+        "timestamp": "03-03-2026_08-12-12"
+    },
+    {
+        "user_date": "04-03-2026",
+        "category": "Daily Expenses",
+        "amount": 180.0,
+        "timestamp": "04-03-2026_18-20-10"
+    },
+    {
+        "user_date": "05-03-2026",
+        "category": "Recharges",
+        "amount": 549.0,
+        "timestamp": "05-03-2026_11-10-22"
+    },
+    {
+        "user_date": "06-03-2026",
+        "category": "Shopping",
+        "amount": 2200.0,
+        "timestamp": "06-03-2026_15-45-45"
+    },
+    {
+        "user_date": "07-03-2026",
+        "category": "Movies",
+        "amount": 420.0,
+        "timestamp": "07-03-2026_21-30-00"
+    },
+    {
+        "user_date": "08-03-2026",
+        "category": "Subscriptions",
+        "amount": 399.0,
+        "timestamp": "08-03-2026_07-45-33"
+    },
+    {
+        "user_date": "09-03-2026",
+        "category": "Food",
+        "amount": 615.0,
+        "timestamp": "09-03-2026_14-22-12"
+    },
+    {
+        "user_date": "10-03-2026",
+        "category": "Trips",
+        "amount": 12000.0,
+        "timestamp": "10-03-2026_10-05-40"
+    },
+    {
+        "user_date": "11-03-2026",
+        "category": "Travel",
+        "amount": 1200.0,
+        "timestamp": "11-03-2026_08-45-18"
+    },
+    {
+        "user_date": "12-03-2026",
+        "category": "Daily Expenses",
+        "amount": 410.0,
+        "timestamp": "12-03-2026_19-15-57"
+    },
+    {
+        "user_date": "13-03-2026",
+        "category": "Recharges",
+        "amount": 349.0,
+        "timestamp": "13-03-2026_12-30-10"
+    },
+    {
+        "user_date": "14-03-2026",
+        "category": "Food",
+        "amount": 295.0,
+        "timestamp": "14-03-2026_13-15-22"
+    },
+    {
+        "user_date": "15-03-2026",
+        "category": "Shopping",
+        "amount": 3800.0,
+        "timestamp": "15-03-2026_16-10-55"
+    },
+    {
+        "user_date": "16-03-2026",
+        "category": "Movies",
+        "amount": 650.0,
+        "timestamp": "16-03-2026_20-40-30"
+    },
+    {
+        "user_date": "17-03-2026",
+        "category": "Subscriptions",
+        "amount": 1200.0,
+        "timestamp": "17-03-2026_07-55-12"
+    },
+    {
+        "user_date": "18-03-2026",
+        "category": "Food",
+        "amount": 380.0,
+        "timestamp": "18-03-2026_13-10-14"
+    },
+    {
+        "user_date": "19-03-2026",
+        "category": "Daily Expenses",
+        "amount": 130.0,
+        "timestamp": "19-03-2026_18-40-40"
+    },
+    {
+        "user_date": "20-03-2026",
+        "category": "Travel",
+        "amount": 1900.0,
+        "timestamp": "20-03-2026_08-20-10"
+    },
+    {
+        "user_date": "21-03-2026",
+        "category": "Shopping",
+        "amount": 1100.0,
+        "timestamp": "21-03-2026_15-15-12"
+    },
+    {
+        "user_date": "22-03-2026",
+        "category": "Movies",
+        "amount": 250.0,
+        "timestamp": "22-03-2026_22-50-30"
+    },
+    {
+        "user_date": "23-03-2026",
+        "category": "Subscriptions",
+        "amount": 99.0,
+        "timestamp": "23-03-2026_08-10-55"
+    },
+    {
+        "user_date": "24-03-2026",
+        "category": "Food",
+        "amount": 440.0,
+        "timestamp": "24-03-2026_14-50-22"
+    },
+    {
+        "user_date": "25-03-2026",
+        "category": "Daily Expenses",
+        "amount": 380.0,
+        "timestamp": "25-03-2026_19-45-33"
+    },
+    {
+        "user_date": "26-03-2026",
+        "category": "Recharges",
+        "amount": 619.0,
+        "timestamp": "26-03-2026_10-12-00"
+    },
+    {
+        "user_date": "27-03-2026",
+        "category": "Shopping",
+        "amount": 6400.0,
+        "timestamp": "27-03-2026_17-40-40"
+    },
+    {
+        "user_date": "28-03-2026",
+        "category": "Trips",
+        "amount": 18000.0,
+        "timestamp": "28-03-2026_11-55-15"
+    },
+    {
+        "user_date": "29-03-2026",
+        "category": "Food",
+        "amount": 710.0,
+        "timestamp": "29-03-2026_13-10-00"
+    },
+    {
+        "user_date": "30-03-2026",
+        "category": "Travel",
+        "amount": 1150.0,
+        "timestamp": "30-03-2026_08-30-45"
+    },
+    {
+        "user_date": "31-03-2026",
+        "category": "Daily Expenses",
+        "amount": 500.0,
+        "timestamp": "31-03-2026_20-12-12"
+    },
+    {
+        "user_date": "01-04-2026",
+        "category": "Rent",
+        "amount": 15000.0,
+        "timestamp": "01-04-2026_09-45-00"
+    },
+    {
+        "user_date": "02-04-2026",
+        "category": "Food",
+        "amount": 220.0,
+        "timestamp": "02-04-2026_13-55-45"
+    },
+    {
+        "user_date": "03-04-2026",
+        "category": "Travel",
+        "amount": 400.0,
+        "timestamp": "03-04-2026_08-50-12"
+    },
+    {
+        "user_date": "04-04-2026",
+        "category": "Daily Expenses",
+        "amount": 110.0,
+        "timestamp": "04-04-2026_18-40-10"
+    },
+    {
+        "user_date": "05-04-2026",
+        "category": "Recharges",
+        "amount": 155.0,
+        "timestamp": "05-04-2026_11-30-22"
+    },
+    {
+        "user_date": "06-04-2026",
+        "category": "Shopping",
+        "amount": 1850.0,
+        "timestamp": "06-04-2026_15-10-45"
+    },
+    {
+        "user_date": "07-04-2026",
+        "category": "Movies",
+        "amount": 850.0,
+        "timestamp": "07-04-2026_21-00-00"
+    },
+    {
+        "user_date": "08-04-2026",
+        "category": "Subscriptions",
+        "amount": 250.0,
+        "timestamp": "08-04-2026_07-15-33"
+    },
+    {
+        "user_date": "10-04-2026",
+        "category": "Trips",
+        "amount": 22000.0,
+        "timestamp": "10-04-2026_10-55-40"
+    },
+    {
+        "user_date": "30-04-2026",
+        "category": "Rent",
+        "amount": 10500.0,
+        "timestamp": "2026-05-28_20-12"
+    }
+]
