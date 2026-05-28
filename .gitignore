@@ -1,4 +1,4 @@
 __pycache__/
-*.png
-*.csv
 .venv/
+exports/charts/
+exports/csv/
